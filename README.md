@@ -17,6 +17,6 @@ Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | N
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleska404)
 
-![Waleska's github stats](https://github-readme-stats.vercel.app/api?username=waleska404&count_private=true)
+![Waleska's github stats](https://github-readme-stats.vercel.app/api?username=waleska404&count_private=true&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/waleska404) 
