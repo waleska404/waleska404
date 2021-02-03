@@ -1,22 +1,34 @@
-### Hi there 👋, my name is Paula Boyano Ivars
-#### Front-End Developer 
-Programmer Front-End passionate of new technologies. Currently in active looking for work. I'm a React :heart:
+```
+                     .-"""-.
+                    / .===. \
+                    \/ 6 6 \/
+                    ( \___/ )
+  ______________ooo__\_____/__________________
+ /                                            \
+| Hey, I'm JESU20950! Thanks for following me. |
+ \___________________________ooo______________/
+                    |  |  |
+                    |_ | _|
+                    |  |  |
+                    |__|__|
+                    /-'Y'-\
+                   (__/ \__)
+```
 
-Skills: HTML | CSS | React | Nextjs | GATSBY | SASS | MONGODB | GIT | DOCKER | NODE.JS | FIREBASE | SCSS | Java | Python | Unity | C# | C++ | Vuejs | Angularjs | Yarn | Yii | 
+### About me
 
-- 🔭 I’m currently working on differents personal projects 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with 
-- 💬 Ask me about
-- 📫 How to reach me: paulaboyanoivars@gmail.com 
-- ⚡ Fun fact: 
+- 🌱 I’m currently learning about pentesting.
+- 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
+- 📫 How to reach me: paulaboyanoivars@gmail.com
+- 😄 Pronouns: she/her
+
+### 💻 Open source work stats
+
+[![WALESKA404's github stats](https://github-readme-stats.vercel.app/api?username=waleska404&show_icons=true)](https://github.com/waleska404)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/waleska404)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/)  
+### 🖱️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleska404&count_private=true&show_icons=true)
 
-![Waleska's github stats](https://github-readme-stats.vercel.app/api?username=waleska404&count_private=true&show_icons=true)
+[![WALESKA404's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waleska404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/waleska404) 
