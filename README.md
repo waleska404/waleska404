@@ -20,7 +20,6 @@
 - 🌱 I’m currently learning about pentesting.
 - 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
 - 📫 How to reach me: paulaboyanoivars@gmail.com
-- 😄 Pronouns: she/her
 
 ### 💻 Open source work stats
 
