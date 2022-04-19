@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning about pentesting.
 - 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
-- 📫 How to reach me: paulaboyanoivars@gmail.com
+- 📫 How to reach me: paula0x41@gmail.com
 
 ### 💻 Open source work stats
 
