@@ -27,7 +27,7 @@
 [<img target="_blank" align="left" alt="Paula Boyano | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
 [<img target="_blank" align="left" alt="Paula Boyano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[mail]: paulaboyanoivars@gmail.com
+[mail]: mailto: paulaboyanoivars@gmail.com
 [linkedin]: https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/
 
 
