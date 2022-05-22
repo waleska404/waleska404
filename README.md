@@ -24,10 +24,17 @@
 
 <h2> 🤳 Connect with me</h2>
 
-[<img target="_blank" align="left" alt="Paula Boyano | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
-[<img target="_blank" align="left" alt="Paula Boyano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img target="_blank" align="left" alt="Paula Boyano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img target="_blank" align="left" alt="Paula Boyano | Mail" width="120px" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img target="_blank" align="left" alt="Paula Boyano | LinkedIn" width="140px" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img target="_blank" align="left" width="120px" height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img target="_blank" align="left" width="120px" height="40" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img target="_blank" align="left" width="140px" height="40" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" />][sololearn]
+[<img target="_blank" align="left" width="150px" height="40" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][hackerrank]
+
 
 [mail]: mailto:paulaboyanoivars@gmail.com
 [linkedin]: https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/
 [twitter]: https://twitter.com/waleska404
+[medium]: https://medium.com/@waleska404
+[sololearn]: https://www.sololearn.com/profile/18038589
+[hackerrank]: https://www.hackerrank.com/waleska404
