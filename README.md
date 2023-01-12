@@ -4,7 +4,7 @@
 
 - <b>Machine Learning</b>
   - [Notes on Machine Learning Algorithms and Techniques](https://github.com/waleska404/ML-with-Python-freeCodeCamp/tree/main/notes)
-  - [Projects of the 'Machine Learning with Python' fcc course](https://github.com/waleska404/ML-with-Python-freeCodeCamp/tree/main/projects) <b><i>(in progress)</i></b>
+  - [Projects of the 'Machine Learning with Python' fcc course](https://github.com/waleska404/ML-with-Python-freeCodeCamp/tree/main/projects) 
 - <b>Algorithms</b>
   - [4 In a Row Game](https://github.com/waleska404/4enRaya) <b><i>(Implemented AI adversary with different levels of difficulty using Greedy and Minimax algorithms)</b></i>
 - <b>Python</b>
