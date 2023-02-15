@@ -1,4 +1,4 @@
-<h1>Hi, I'm Waleska! <br/><a href="https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/">Computer Science and Information Technologies Student</a></h1>
+<h1>Hi, I'm Waleska! <br/><a href="https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/">Software Developer</a></h1>
 
 <h2>👨‍💻 Projects</h2>
 
