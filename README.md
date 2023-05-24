@@ -19,7 +19,7 @@
 
 <h2> :book: About me</h2>
 
-- 🌱 I’m currently learning about pentesting and IA.
+- 🌱 I’m currently learning about mobile development.
 - 👯 I’m looking to collaborate on Open Source projects and participate in CTFs.
 
 <h2> 🤳 Connect with me</h2>
