@@ -1,6 +1,6 @@
 <h1>Hi, I'm Waleska! <br/><a href="https://www.linkedin.com/in/paula-boyano-ivars-5248801ab/">Software Developer</a></h1>
 
-<h2>👨‍💻 Projects</h2>
+<h2>👩‍💻 Projects</h2>
 
 - <b>Android</b>
   - [Tic Tac Toe remote game for Android devices using Firebase Realtime Database](https://github.com/waleska404/tic-tac-toe)
