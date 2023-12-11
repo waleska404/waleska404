@@ -5,6 +5,7 @@
 - <b>Android</b>
   - [Algorithm Visualizer Android app](https://github.com/waleska404/algorithms-visualizer)
   - [Tic Tac Toe remote game for Android devices using Firebase Realtime Database](https://github.com/waleska404/tic-tac-toe)
+  - [Android articles on Medium](https://medium.com/@waleska404)
 - <b>Machine Learning</b>
   - [Notes on Machine Learning Algorithms and Techniques](https://github.com/waleska404/ML-with-Python-freeCodeCamp/tree/main/notes)
   - [Projects of the 'Machine Learning with Python' fcc course](https://github.com/waleska404/ML-with-Python-freeCodeCamp/tree/main/projects) 
